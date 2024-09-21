@@ -1,4 +1,4 @@
-# Information Hiding (Watermarking, Steganography) AI Seminar
+# AI Seminar: Information Hiding (Watermarking, Steganography)
 
 > Author: `Preston Robinette`
 
